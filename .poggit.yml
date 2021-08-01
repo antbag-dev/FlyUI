@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/antbag-dev/FlyUI
+build-by-default: true
+branches:
+- main
+projects:
+  FlyUI 3:
+    path: FlyUI 3/
+...
